@@ -50,7 +50,7 @@ This project implements an IoT thermometer and hygrometer using an **ESP8266 (No
 
 ## 📷 Project Setup (Real Photo)
 
-![Project Setup](/mnt/data/79BCE917-8A57-4FC6-9269-3E1153DEBE00.jpeg)
+thermometerIoT.jpg
 
 ---
 
